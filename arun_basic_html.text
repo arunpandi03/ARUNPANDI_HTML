@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Online Food Order
+</title>
+
+</head>
+
+<body background color= "green" >
+<style>
+p{
+color: red
+}
+</style>
+<h1>ARUN_A</h1>
+
+<p>Open up the project in the contents paste <i><b>arun</b> </i>the code or just type it.</p>
+arun<br>
+suba<br>
+ranjith<br><br>
+
+
+<table border=3 cellspacing=5px >
+CUSTOMER TABLE:
+
+<tr>
+<td>NAME</td>
+<td>AGE</td>
+<td>MOB.NO</td>
+<tr>
+
+<tr>
+<td>arun</td>
+<td>23</td>
+<td>123</td>
+</tr>
+
+
+<tr>
+<td>suba</td>
+<td>23</td>
+<td>321</td></Tr>
+
+<tr>
+<td>ranjith</td>
+<td>24</td>
+<td>5678</td>
+</tr>
+
+</table>
+<hr>
+
+List:
+<list>
+colors:
+<ul shape = disc>
+<li>pink</li>
+<li>red</li>
+<li>purple</li>
+<li>orange</li>
+<li>yellow</li>
+<li>black</li>
+</ul>
+
+
+<ol start=5>
+<li>pink</li>
+<li>red</li>
+<li>purple</li>
+<li>orange</li>
+<li>yellow</li>
+<li>black</li>
+</ol>
+
+</list>
+<hr>
+  
+<div>
+<form>
+FORM CREATION:<BR><BR><BR>
+
+
+NAME:
+<input type ="text" placeholder="as per 10th marksheet" required/><br><br>
+PASSWORD:
+<input type ="password" required/><br><br>
+DOB:
+<input type ="date"/><br><br>
+AGE:
+<input type ="number"/><br><br>
+MOBILE NUMBER:
+<input type ="text" required/><br><br>
+AADHAR NO:
+<input type ="text" required/><br><br>
+
+ADDRESS:
+<input type ="text"/><br><br>
+LANG KNOWN:
+<select>
+<option>java</option>
+<option>python</option>
+<option>c++</option>
+</select><br><br>
+ATTACH FILE:
+<input type ="file"/><br><br>
+FLUENCY:
+<input type ="range"/><br><br>
+PHOTO:
+<input type ="file"/><br><br>
+
+<input type ="submit" value="OK"/>
+<input type ="reset" value = "cancel"/><br><br>
+
+</form>
+</div>
+<hr>
+
+
+
+</body>
+
+<html>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
